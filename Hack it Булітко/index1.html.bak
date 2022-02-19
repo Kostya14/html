@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title> Гаррі Поттер</title>
+	</head>
+<!-- починаєм працювати з тілом документа -->
+	<body bgcolor="yellow"><img src="o">
+                       <h1><hr><font color="red" size="50" face="Arial"> Факт 1 - існує 7 книг по Гаррі Поттеру.</font></h1><br>
+					   <h2><b><hr><font color="blue" size="123" face="Calibri"> Факт 2-Гаррі єдина людина яка вижила після закляття авада кедавра.</font></b></h2><br>
+					   <i><hr><font color="violet" size="200" face="Tahoma"> Факт 3 - У Гаррі є двое найкращих друзів- Рон та Герміона.</font></i><br>
+		      <img src="Ufhhb">
+	</body>
+<!--закінчили з тілом документа-->
+</html>
+
